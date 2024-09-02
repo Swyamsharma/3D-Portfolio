@@ -1,5 +1,5 @@
 ## Interactive 3D Animated Portfolio
-
+[3D-Portfolio](https://3-d-portfolio-gold-theta.vercel.app/).
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -30,4 +30,3 @@ To learn more about Next.js, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-[3D-Portfolio](https://3-d-portfolio-gold-theta.vercel.app/)
