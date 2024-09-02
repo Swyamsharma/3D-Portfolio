@@ -1,5 +1,6 @@
 ## Interactive 3D Animated Portfolio
-[3D-Portfolio](https://3-d-portfolio-gold-theta.vercel.app/).
+Live [3D-Portfolio](https://3-d-portfolio-gold-theta.vercel.app/) deployed on vercel.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
